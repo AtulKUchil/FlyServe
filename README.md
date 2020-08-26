@@ -1,4 +1,4 @@
-# Airline-Reservation-System
+# FlyServe
 A full stack web application for a Flight Reservation System. Used RESTful routing to establish the link between the MySQL database and the frontend.  
 
 ## Getting Started
